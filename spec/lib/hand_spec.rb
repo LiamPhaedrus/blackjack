@@ -19,7 +19,6 @@ RSpec.describe Hand do
     it "calculates aces to be the best possible score" do
       expect(hand_2.hand_score).to eq 12
     end
-
   end
 
 end

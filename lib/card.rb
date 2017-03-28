@@ -17,8 +17,4 @@ class Card
     end
     value
   end
-
-  def deal_with_aces
-    if 
-  end
 end
